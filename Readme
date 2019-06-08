@@ -1,0 +1,11 @@
+github :
+https://github.com/genkioyaji/kadai3
+実行例を示す。例は18 21 の最大公約数を求めるものである。
+$ ./19745105_kadai3.py  18 21
+3
+./19745105_kadai3.sh
+ 6
+
+Travis CI:
+https://travis-ci.org/
+
