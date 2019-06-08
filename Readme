@@ -1,5 +1,0 @@
-https://github.com/genkioyaji/kadai3
-実行例を示す。例は18 21 の最大公約数を求めるものである。
-$ ./kadai3.py  18 21
-3
-
